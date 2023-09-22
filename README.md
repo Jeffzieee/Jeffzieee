@@ -1,4 +1,4 @@
-Hello There! 👋 My name is Jephin John Kutty
+Hello There!👋. My name is Jephin John Kutty
 =========================================================================================================================================
 
 Certified SOC Analyst \[CSA\] | CEH v12 | Computer Science Engineer
