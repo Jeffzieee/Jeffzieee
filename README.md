@@ -1,7 +1,7 @@
 Hello There!👋. My name is Jephin John Kutty
 =========================================================================================================================================
 
-Certified SOC Analyst \[CSA\] | CEH v12 | Computer Science Engineer
+Certified SOC Analyst \[CSA\] | CEH v12 | Computer Science Engineer [BTech]
 -------------------------------------------------------------------
 
 * 🌍  I'm based in Dubai, United Arab Emirates
