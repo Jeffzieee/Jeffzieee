@@ -1,7 +1,7 @@
 Hello There!👋. My name is Jephin John Kutty
 =========================================================================================================================================
 
-EC Council Certified SOC Analyst \[ECSA\] | CEH v12 | Computer Science Engineer [BTech]
+Computer Science Engineer [BTech] | CEH v12 | SOC | SIEM & SOAR | Splunk
 -------------------------------------------------------------------
 
 * 🌍  I'm based in Dubai, United Arab Emirates
