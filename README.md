@@ -1,7 +1,7 @@
 Hello There!👋. My name is Jephin John Kutty
 =========================================================================================================================================
 
-Computer Science Engineer [BTech] | CEH v12 | SOC | SIEM & SOAR | Splunk
+Computer Science Engineer [BTech] | CEH v12 | SOC | SIEM | Splunk
 -------------------------------------------------------------------
 
 * 🌍  I'm based in Dubai, United Arab Emirates
