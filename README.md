@@ -1,4 +1,4 @@
-Hello There!👋. My name is Jephin John Kutty
+Hello There!👋. My name is Jephin John
 =========================================================================================================================================
 
 Computer Science Engineer [BTech] | CEH v12 | SOC | SIEM | Splunk
@@ -9,7 +9,7 @@ Computer Science Engineer [BTech] | CEH v12 | SOC | SIEM | Splunk
 * ✉️  You can contact me at [jephinjohn85@gmail.com](mailto:jephinjohn85@gmail.com)
 * 🚀  I'm currently working on [Cybersecurity Projects](http://#)
 * 🤝  I'm open to collaborating on Blue Team Projects
-* ⚡  I am an aspiring SOC Analyst with hands on experience and practical skills on the basis of industry relevant cybersecurity Tech Stack and Projects that I have completed.
+* ⚡  I am an aspiring Cybersecurity Professional with hands on experience and practical skills on the basis of industry relevant cybersecurity Tech Stack and Projects.
 
 ### Skills
 
