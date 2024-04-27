@@ -8,7 +8,7 @@ Computer Science Engineer | CEH v12 | CSA | Pentesting | SOC
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/jephin-john-kutty-460634190/)
 * ✉️  You can contact me at [jephinjohn85@gmail.com](mailto:jephinjohn85@gmail.com)
 * 🚀  I'm currently working on [Cybersecurity Projects](http://#)
-* 🤝  I'm open to collaborating on Blue Team Projects
+* 🤝  I'm open to collaborating on Cyber Security Projects
 * ⚡  I am an aspiring Cybersecurity Professional with hands on experience and practical skills on the basis of industry relevant cybersecurity Tech Stack and Projects.
 
 ### Skills
