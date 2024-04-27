@@ -1,7 +1,7 @@
 Hello There!👋. My name is Jephin John
 =========================================================================================================================================
 
-Computer Science Engineer [BTech] | CEH v12 | SOC | SIEM | Splunk
+Computer Science Engineer | CEH v12 | CSA | Pentesting | SOC
 -------------------------------------------------------------------
 
 * 🌍  I'm based in Dubai, United Arab Emirates
